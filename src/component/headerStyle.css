@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head-div{
+    padding: 10px 10px;
+    margin: 30px 30px;
+    background-color: rgb(21, 146, 230);
+}
+
+.heading{
+   text-align: center;
+   text-transform: uppercase;
+
+}
+.para-div{
+    padding: 5px 10px;
+    background-color: rgb(237, 143, 109);
+    margin: 20px 20%;
+    border: 2px solid black;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    color: white;
+    font-style: italic;
+}
